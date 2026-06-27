@@ -53,8 +53,9 @@ The codebase is currently built out through the initial structural foundation ph
 - [x] Configure persistent `st.session_state` memory engines to store active game data
 - [x] Build random array generation loops for the core 11 barcode digit slots
 - [x] Integrate a dynamic coordinate index blinder to hide a variable slot from the canvas
-- [ ] Code the weighted Modulo-10 odd/even checksum math validation array
-- [ ] Format clean, non-stacking puzzle interface strings displaying the hidden `❓` slot
-- [ ] Connect interactive numerical input boxes and click-event submission buttons
-- [ ] Implement responsive score tracking states (+10 points per successful verification)
-- [ ] Inject automatic system re-runs to serve up fresh puzzle sequences upon local victory
+- [x] Code the weighted Modulo-10 odd/even checksum math validation array
+- [x] Format clean, non-stacking puzzle interface strings displaying the hidden `❓` slot
+- [x] Connect interactive numerical input boxes and click-event submission buttons
+- [x] Implement responsive score tracking states (+10 points per successful verification)
+- [x] Inject automatic system re-runs to serve up fresh puzzle sequences upon local victory
+- [x] Implement variable scores for guessing on 1st/2nd/3rd try
